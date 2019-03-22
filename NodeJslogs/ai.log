@@ -1,0 +1,4 @@
+[2018-02-18 13:04:37.542] [INFO] ai - customer_Function.js customer registration function called
+[2018-02-18 13:04:37.545] [INFO] ai - customer_Function.js db connection and collection required
+[2018-02-18 13:04:37.550] [INFO] ai - customer_Function.js couters collection hit and increase the counter
+[2018-02-18 13:04:37.559] [INFO] ai - customer_Function.js customer registration doneundefined
